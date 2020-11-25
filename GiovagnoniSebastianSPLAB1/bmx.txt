@@ -1,0 +1,13 @@
+51,Falito,BMX,99
+52,Hyacinthia,BMX,77
+54,Gayler,BMX,92
+57,Kania,BMX,98
+60,Sylvan,BMX,50
+75,Blayne,BMX,57
+76,Becki,BMX,79
+77,Zorine,BMX,114
+78,Fern,BMX,81
+88,Spenser,BMX,64
+92,Keri,BMX,50
+98,Sancho,BMX,75
+100,Violet,BMX,82

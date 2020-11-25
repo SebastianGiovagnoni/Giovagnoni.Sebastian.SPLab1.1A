@@ -1,0 +1,10 @@
+58,Damara,MTB,110
+59,Ellerey,MTB,62
+62,Avis,MTB,80
+68,Jobie,MTB,120
+79,Kalila,MTB,76
+89,Rollins,MTB,65
+91,Buiron,MTB,95
+93,Richmound,MTB,106
+94,Dorree,MTB,114
+97,Christi,MTB,81

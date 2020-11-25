@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1606312120 source:c:\users\supra\desktop\giovagnonisebastiansplab1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1606311069 c:\users\supra\desktop\giovagnonisebastiansplab1\linkedlist.h
+
+1606312092 c:\users\supra\desktop\giovagnonisebastiansplab1\employee.h
+
+1606308109 c:\users\supra\desktop\giovagnonisebastiansplab1\parser.h
+
+1606311069 source:c:\users\supra\desktop\giovagnonisebastiansplab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606308109 source:c:\users\supra\desktop\giovagnonisebastiansplab1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1606312469 source:c:\users\supra\desktop\giovagnonisebastiansplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1606312343 c:\users\supra\desktop\giovagnonisebastiansplab1\controller.h
+
+1606312092 source:c:\users\supra\desktop\giovagnonisebastiansplab1\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"string.h"
+	"Employee.h"
+
